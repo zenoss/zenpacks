@@ -1,0 +1,27 @@
+[submodule "ZenPacks.zenoss.CloudFoundry"]
+	path = ZenPacks.zenoss.CloudFoundry
+	url = git@github.com:zenoss/ZenPacks.zenoss.CloudFoundry.git
+[submodule "ZenPacks.zenoss.CloudStack"]
+	path = ZenPacks.zenoss.CloudStack
+	url = git@github.com:zenoss/ZenPacks.zenoss.CloudStack.git
+[submodule "ZenPacks.zenoss.Memcached"]
+	path = ZenPacks.zenoss.Memcached
+	url = git@github.com:zenoss/ZenPacks.zenoss.Memcached.git
+[submodule "ZenPacks.zenoss.OpenStack"]
+	path = ZenPacks.zenoss.OpenStack
+	url = git@github.com:zenoss/ZenPacks.zenoss.OpenStack.git
+[submodule "ZenPacks.zenoss.OpenStackSwift"]
+	path = ZenPacks.zenoss.OpenStackSwift
+	url = git@github.com:zenoss/ZenPacks.zenoss.OpenStackSwift.git
+[submodule "ZenPacks.zenoss.OpenVZ"]
+	path = ZenPacks.zenoss.OpenVZ
+	url = git@github.com:zenoss/ZenPacks.zenoss.OpenVZ.git
+[submodule "ZenPacks.zenoss.PostgreSQL"]
+	path = ZenPacks.zenoss.PostgreSQL
+	url = git@github.com:zenoss/ZenPacks.zenoss.PostgreSQL.git
+[submodule "ZenPacks.zenoss.Puppet"]
+	path = ZenPacks.zenoss.Puppet
+	url = git@github.com:zenoss/ZenPacks.zenoss.Puppet.git
+[submodule "ZenPacks.zenoss.RabbitMQ"]
+	path = ZenPacks.zenoss.RabbitMQ
+	url = git@github.com:zenoss/ZenPacks.zenoss.RabbitMQ.git
