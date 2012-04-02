@@ -19,9 +19,6 @@
 [submodule "ZenPacks.zenoss.PostgreSQL"]
 	path = ZenPacks.zenoss.PostgreSQL
 	url = git@github.com:zenoss/ZenPacks.zenoss.PostgreSQL.git
-[submodule "ZenPacks.zenoss.Puppet"]
-	path = ZenPacks.zenoss.Puppet
-	url = git@github.com:zenoss/ZenPacks.zenoss.Puppet.git
 [submodule "ZenPacks.zenoss.RabbitMQ"]
 	path = ZenPacks.zenoss.RabbitMQ
 	url = git@github.com:zenoss/ZenPacks.zenoss.RabbitMQ.git
