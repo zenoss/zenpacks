@@ -25,3 +25,6 @@
 [submodule "ZenPacks.zenoss.RabbitMQ"]
 	path = ZenPacks.zenoss.RabbitMQ
 	url = git@github.com:zenoss/ZenPacks.zenoss.RabbitMQ.git
+[submodule "ZenPacks.networking.HPProcurve"]
+	path = ZenPacks.networking.HPProcurve
+	url = git://github.com/zenoss/ZenPacks.networking.HPProcurve.git
