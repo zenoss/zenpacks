@@ -25,3 +25,6 @@
 [submodule "ZenPacks.zenoss.RabbitMQ"]
 	path = ZenPacks.zenoss.RabbitMQ
 	url = git://github.com/zenoss/ZenPacks.zenoss.RabbitMQ.git
+[submodule "ZenPacks.zenoss.oVirt"]
+	path = ZenPacks.zenoss.oVirt
+	url = git@github.com:zenoss/ZenPacks.zenoss.oVirt.git
