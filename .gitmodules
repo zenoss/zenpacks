@@ -28,3 +28,6 @@
 [submodule "ZenPacks.zenoss.oVirt"]
 	path = ZenPacks.zenoss.oVirt
 	url = git@github.com:zenoss/ZenPacks.zenoss.oVirt.git
+[submodule "ZenPacks.zenoss.MikroTik"]
+	path = ZenPacks.zenoss.MikroTik
+	url = git@github.com:zenoss/ZenPacks.zenoss.MikroTik.git
