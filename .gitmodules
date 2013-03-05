@@ -34,3 +34,6 @@
 [submodule "ZenPacks.zenoss.JMXNotificationListener"]
 	path = ZenPacks.zenoss.JMXNotificationListener
 	url = git@github.com:zenoss/ZenPacks.zenoss.JMXNotificationListener.git
+[submodule "ZenPacks.zenoss.AWS"]
+	path = ZenPacks.zenoss.AWS
+	url = git@github.com:zenoss/ZenPacks.zenoss.AWS.git
