@@ -37,3 +37,6 @@
 [submodule "ZenPacks.zenoss.AWS"]
 	path = ZenPacks.zenoss.AWS
 	url = git@github.com:zenoss/ZenPacks.zenoss.AWS.git
+[submodule "ZenPacks.zenoss.CalculatedPerformance"]
+	path = ZenPacks.zenoss.CalculatedPerformance
+	url = git://github.com/zenoss/ZenPacks.zenoss.CalculatedPerformance.git
