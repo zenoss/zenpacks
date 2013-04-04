@@ -40,3 +40,9 @@
 [submodule "ZenPacks.zenoss.CalculatedPerformance"]
 	path = ZenPacks.zenoss.CalculatedPerformance
 	url = git://github.com/zenoss/ZenPacks.zenoss.CalculatedPerformance.git
+[submodule "ZenPacks.zenoss.PythonCollector"]
+	path = ZenPacks.zenoss.PythonCollector
+	url = git://github.com/zenoss/ZenPacks.zenoss.PythonCollector.git
+[submodule "ZenPacks.zenoss.WBEM"]
+	path = ZenPacks.zenoss.WBEM
+	url = git://github.com/zenoss/ZenPacks.zenoss.WBEM.git
